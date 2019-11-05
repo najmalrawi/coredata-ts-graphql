@@ -1,0 +1,7 @@
+type Course {
+    id: ID!
+    name: String!
+    academicHoursTotal: Int!
+    academicHoursPerLesson: Int!
+    price: Int!
+}
