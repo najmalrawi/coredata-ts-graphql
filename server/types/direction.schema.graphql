@@ -1,0 +1,12 @@
+type Direction {
+	id: Int!
+	name: String!
+}
+
+type Query {
+	directions(branchId: Int!):[Direction!]!
+}
+
+type Mutation {
+	createDirection(branchId: Int!, name: String!):Direction
+}
