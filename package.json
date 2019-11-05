@@ -1,0 +1,9 @@
+{
+  "name": "coredata-ts-graphql",
+  "version": "1.0.0",
+  "description": "CoreData TC Project | GraphQL Server",
+  "main": "server.ts",
+  "repository": "https://github.com/najmalrawi/coredata-ts-graphql",
+  "author": "Muhammadxon Najimov <najmalrawi@gmail.com>",
+  "license": "MIT"
+}
