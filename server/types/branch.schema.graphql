@@ -1,0 +1,9 @@
+type Branch {
+	id: ID!
+	name: String!
+	code: Int!
+}
+
+type Query {
+	branches: [Branch!]!
+}
