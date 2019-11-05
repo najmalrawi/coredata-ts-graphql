@@ -5,5 +5,8 @@
   "main": "server.ts",
   "repository": "https://github.com/najmalrawi/coredata-ts-graphql",
   "author": "Muhammadxon Najimov <najmalrawi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
 }
