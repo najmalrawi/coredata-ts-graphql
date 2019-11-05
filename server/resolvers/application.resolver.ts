@@ -1,5 +1,5 @@
 export default {
 	Query: {
-		version: () => 1.0
+		version: async () => 1.0
 	}
-};
+}
